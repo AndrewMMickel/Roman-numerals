@@ -10,7 +10,7 @@ _This page is practice of using front-end and business logic to display numbers 
 
 ## Setup/Installation Requirements
 
-* _There shouldn't be any installation requirements. Will update if this changes_
+* _save all files to a seperate folder. You must have bootstraps saved on your pc as well(You can download it from the bootstraps official website). You must also have JQuery3.4.1 saved on your pc in order to run this website._
 
 ## Specs
 
@@ -31,7 +31,7 @@ _email andrew.m.mickel@gmail.com if there are any concerns_
 
 ## Technologies Used
 
-_The most impressive part so far is that all of this work has been done on Windows. There'll be more later_
+_Users input a number and hit Submit. The code then uses two arrays to convert the number into Roman numerals by adding the required symbol then subtracting the number that is being replaced. Finally, the Roman numeral is displayed underneath the submit button_
 
 ### License
 
