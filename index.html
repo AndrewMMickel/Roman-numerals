@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="js/JQuery-3.4.1.js"></script>
+    <script src="js/scripts.js"></script>
+    <title>LRoman Numerals</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Roman numerals</h1>
+
+      <form id="numeral-input">
+        <div class="form-group">
+          <label for="numeral">Enter a number between 1 and 1000 to see it changed into Roman Numerals:</label>
+          <input id="numeral" type="number" min="1" max="3999">
+        </div>
+
+        <button type="submit" class="btn">Find out!</button>
+      </form>
+
+      <div id="result">
+        <p><span class="convertednumber"></span></p>
+      </div>
+    </div>
+  </body>
+</html>

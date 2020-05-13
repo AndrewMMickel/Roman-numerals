@@ -1,16 +1,25 @@
-# _{hello world!}_
+# _Roman Numerals_
 
-#### _{first webpage}, {2/6/2020}_
+#### _roman-numerals, 2/6/2020_
 
-#### By _**{Andrew Mickel}**_
+#### By _**Andrew Mickel**_
 
 ## Description
 
-_{This page is a creation of mine as I learn to code with HTML}_
+_This page is practice of using front-end and business logic to display numbers as Roman Numerals._
 
 ## Setup/Installation Requirements
 
 * _There shouldn't be any installation requirements. Will update if this changes_
+
+## Specs
+
+* Should be able to add the value of each symbol
+Example input: 2
+Example output: II
+* Should not be able to show more than 3 of the same symbol in a row
+Example input: 4
+Example output: IV (instead of IIII)
 
 ## Known Bugs
 
